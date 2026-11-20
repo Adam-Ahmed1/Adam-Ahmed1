@@ -1,26 +1,26 @@
 # Adam Ibrahim
 
 **Computer Science & Engineering student at the German University in Cairo**  
-Cairo, Egypt · [Portfolio](https://doma990.github.io/) · [Email](mailto:adam.ibrahim.dev@gmail.com) · [LinkedIn](https://www.linkedin.com/in/adam-ahmed-25194b29a)
+Cairo, Egypt · [Portfolio](https://Adam-Ahmed1.github.io/) · [Email](mailto:adam.ibrahim.dev@gmail.com) · [LinkedIn](https://www.linkedin.com/in/adam-ahmed-25194b29a)
 
 I build Java desktop applications and Python web applications, and I’m particularly interested in backend development. I have experience with JavaScript and am currently learning Node.js. 📄 [View My CV](./assets/CV.pdf)
 
 ## Selected projects
 
-### [Automata Lab ↗](https://github.com/doma990/automata-lab)
+### [Automata Lab ↗](https://github.com/Adam-Ahmed1/automata-lab)
 **JavaScript · HTML/CSS · SVG** | September 2026–Present
 
-An interactive finite automata workspace for defining machines, visualizing transitions, and exploring string acceptance through step-by-step simulation. Supports DFA union, intersection, complement, and batch string testing, with separate model, application logic, and interface layers. [Open the workspace →](https://doma990.github.io/automata-lab/) · [Project overview →](https://doma990.github.io/projects/automata-lab/)
+An interactive finite automata workspace for defining machines, visualizing transitions, and exploring string acceptance through step-by-step simulation. Supports DFA union, intersection, complement, and batch string testing, with separate model, application logic, and interface layers. [Open the workspace →](https://Adam-Ahmed1.github.io/automata-lab/) · [Project overview →](https://Adam-Ahmed1.github.io/projects/automata-lab/)
 
-### [DooR DasH Game ↗](https://github.com/doma990/doordash-board-game)
+### [DooR DasH Game ↗](https://github.com/Adam-Ahmed1/doordash-board-game)
 **Java · OOP · JUnit 4 · Git · GitHub** | February–May 2026
 
-Led the design and implementation of a Java board game across three development milestones, covering game logic and a graphical interface. Modeled game entities using class hierarchies, interfaces, and polymorphism, with exception handling to enforce game rules and handle invalid actions. [Project walkthrough →](https://doma990.github.io/projects/doordash/)
+Led the design and implementation of a Java board game across three development milestones, covering game logic and a graphical interface. Modeled game entities using class hierarchies, interfaces, and polymorphism, with exception handling to enforce game rules and handle invalid actions. [Project walkthrough →](https://Adam-Ahmed1.github.io/projects/doordash/)
 
-### [CS50 Finance and Stocks ↗](https://github.com/doma990/cs50-finance)
+### [CS50 Finance and Stocks ↗](https://github.com/Adam-Ahmed1/cs50-finance)
 **Python · Flask · SQLite3 · Jinja · Bootstrap** | December 2022–January 2023
 
-Built a stock-trading simulator with registration, session-based authentication, stock quotes, and simulated purchases and sales. Used SQLite to store accounts, cash balances, and transactions, supporting portfolio views and transaction history. Added password changes, simulated cash deposits, and trading shortcuts. [Project walkthrough →](https://doma990.github.io/projects/cs50-finance/)
+Built a stock-trading simulator with registration, session-based authentication, stock quotes, and simulated purchases and sales. Used SQLite to store accounts, cash balances, and transactions, supporting portfolio views and transaction history. Added password changes, simulated cash deposits, and trading shortcuts. [Project walkthrough →](https://Adam-Ahmed1.github.io/projects/cs50-finance/)
 
 ## Toolkit
 
